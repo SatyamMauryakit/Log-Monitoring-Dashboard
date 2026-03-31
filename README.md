@@ -70,6 +70,3 @@ Deploy using Kubernetes using the appropriate YAML files.
 ## Security Considerations
 - Always use HTTPS for production deployments.
 - Regularly update dependencies to mitigate vulnerabilities.
-
-## License
-This project is licensed under the MIT License.
